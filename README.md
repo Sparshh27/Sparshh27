@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sparshh27
-- 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently learning Machine Learning for Data Analytics
-- 📫 How to reach me - Email-20uec132@lnmiit.ac.in
+- 👀 I’m interested in Artifical Intelligence, Machine Learning, Gen AI, LLM's, research, Quants, trading and everything related.
+- 🌱 I’m currently learning Machine Learning Algorithms for Data Analytics. 
+- 📫 How to reach me - Email-sparsgupta27@gmail.com
 
 <!---
 Sparshh27/Sparshh27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
